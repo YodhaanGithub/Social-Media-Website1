@@ -1,0 +1,74 @@
+body{
+    background: linear-gradient(#00FFFF 0%, #fc03db 100%);
+}
+.travel-main-div
+{
+    border: 1px solid cyan;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel-main-div img
+{
+  width: 100%;
+}
+
+.travel-main-div hr
+{
+    width: 230px; 
+}
+
+.travel-main-div h5 , .travel-main-div p
+{
+margin-left: 20px;
+}
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+.environment_li
+{
+  margin-top: 13px;
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid cyan;
+    padding: 8px;
+}
+
+.environment_li img
+{
+  border-radius: 25px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
+
+#explanation{
+  font-size: 20px;
+}
+
+#nav {
+  font-size: 20px;
+  
+  
+
+}
+
+#First{
+  font-size: 30px;
+}
+
+.heading{
+  font-size: 20px;
+}
+
